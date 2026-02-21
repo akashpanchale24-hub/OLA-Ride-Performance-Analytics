@@ -130,4 +130,5 @@ WHERE Incomplete_Rides = 'Yes';
 - Customer vs Driver Rating Comparison
 
 ## Dashboard Preview
+![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola_dashboard_1.PNG)
 ![OLA Dashboard]()
