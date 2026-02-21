@@ -134,4 +134,11 @@ WHERE Incomplete_Rides = 'Yes';
 ![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola-dashboard_2.PNG)
 ![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola_dashboard_3.PNG)
 ![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola_dashboard_4.PNG)
-![OLA Dashboard]()
+![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola_dashboard_5.PNG)
+
+## Business Insights
+- Weekend bookings are higher compared to weekdays
+- Most revenue is generated via Cash & UPI payments
+- Prime Sedan & SUV generate higher revenue per ride
+- Driver cancellations are higher than customer cancellations
+- Ratings are generally above 4.0, showing good service quality
