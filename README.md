@@ -1,5 +1,5 @@
 # OLA Ride Performance Analytics
-![Ola_logo](http://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/pngegg.png)
+![Ola_logo]()
 
 ## Overview
 This project analyzes ride booking data from OLA to understand business performance, ride trends, customer behavior, and revenue generation.
