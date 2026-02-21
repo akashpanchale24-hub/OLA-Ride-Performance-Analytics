@@ -95,27 +95,27 @@ FROM bookings
 WHERE Incomplete_Rides = 'Yes';
 ```
 ## Dashboard Features
-  1️.Overall Performance
+1️.Overall Performance
 - Ride Volume Over Time (Time Series)
 - Booking Status Breakdown
 - Interactive Date Slicer
 - Dynamic KPI Cards
 
-  2️. Revenue Analysis
+2️. Revenue Analysis
 - Revenue by Payment Method
 - Top 5 Customers by Booking Value
 - Daily Ride Distance Distribution
 
-  3️. Vehicle Performance
+3️. Vehicle Performance
 - Top 5 Vehicle Types by Ride Distance
 - Average Ride Distance per Vehicle Type
 
-  4️.Cancellation Analysis
+4️.Cancellation Analysis
 - Customer Cancellation Rate
 - Driver Cancellation Rate
 - Cancellation Reasons Breakdown
 
-  5️.Ratings Analysis
+5️.Ratings Analysis
 - Driver Ratings Distribution
 - Customer Ratings Distribution
 - Customer vs Driver Rating Comparison
