@@ -132,6 +132,6 @@ WHERE Incomplete_Rides = 'Yes';
 ## Dashboard Preview
 ![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola_dashboard_1.PNG)
 ![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola-dashboard_2.PNG)
-![OLA Dashboard]()
+![OLA Dashboard](https://github.com/akashpanchale24-hub/OLA-Ride-Performance-Analytics/blob/main/ola_dashboard_3.PNG)
 ![OLA Dashboard]()
 ![OLA Dashboard]()
